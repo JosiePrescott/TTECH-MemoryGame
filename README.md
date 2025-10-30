@@ -6,3 +6,5 @@ After flipping non-matches, there is a wait time of 1500 so you are able to see 
 If you flip non-matching cards, they will flip back over after the wait time. 
 The cards will shuffle immediatly when logging into game and on every reload.
 When a card is matched, the event listener is removed so you can't click it again unless you reload and restart the game.
+
+Link to working site: https://josieprescott.github.io/TTECH-MemoryGame/
